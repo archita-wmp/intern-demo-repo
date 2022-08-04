@@ -1,0 +1,12 @@
+[
+    {
+        "name" : "Purnima",
+        "address" : ["Roorkee","civil lines", 423],
+        "email" : "purnimachaudhary@wingmanpartners.com",
+        "contact" : 9917656592,
+        "age" : 22,
+        "dob" : "3-01-2000",
+        "college" : "Banasthali Vidyapith",
+        "Designation" : "Software Engineer Interm"
+    }
+]
